@@ -7,5 +7,8 @@ In the training phase, speaker specific codebook is computed and stored in the d
 At the time of recognition, input voice signal is recorded and its codebook is computed and compared with the codebooks stored in the database. 
 If a match is found the recognized speaker details is displayed, else error message is displayed.
 
+This is an entire voice recognition system with 9 functionalities
 
 To run this program, record a few voices and store it in .wav format in the same destination as the code. 
+
+
