@@ -1,4 +1,4 @@
-# User-Authentication-using-Voice-Recognition-using-Machine-Learning
+# User-Authentication-using-Voice-Recognition
 Voice Recognition is used to recognize a speaker's voice through his/her pitch and Frequency. 
 We aim to recognize a speaker at real-time. We use two modules – feature extraction and codebook generation. 
 We have extracted voice features by computing Mel Frequency Cepstrum Coefficients. 
